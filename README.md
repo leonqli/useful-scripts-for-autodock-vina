@@ -1,1 +1,1 @@
-# Usef full scripts for molecular docking using Autodock Vina 
+# Usef full scripts or tools for molecular docking using Autodock Vina 
