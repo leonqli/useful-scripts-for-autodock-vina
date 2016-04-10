@@ -2,6 +2,8 @@
 
 #vina location
 vina=/usr/bin/vina
+## for windows user used cygwin
+#vina="/cygdrive/c/Program Files (x86)/The Scripps Research Institute/Vina/vina"
 
 if (( $# != 5 )); then
         echo "Usage: ./dock.sh vina.conf receptor.pdbqt ligs_pdbqt_folder out_folder log_folder"
